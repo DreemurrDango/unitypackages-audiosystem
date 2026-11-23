@@ -18,6 +18,6 @@
     "Mixer"
   ],
   "dependencies": {
-    "com.dreemurrstudio.utilities": "1.0.0"
+    "com.dreemurrstudio.core": "1.0.0"
   }
 }

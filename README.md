@@ -27,7 +27,7 @@
 
 ## 依赖项
 
-*   **DreemurrStudio.Utilities**: 本模块中的所有管理器（`AudioManager`, `BGMManager` 等）都继承自 `Singleton<T>` 泛型基类，该基类由 `DreemurrStudio.Utilities` 包提供。请确保您的项目中已导入该依赖包
+*   **com.dreemurrstudio.core**: 本模块中的所有管理器（`AudioManager`, `BGMManager` 等）都继承自 `DreemurrStudio.Core.Singleton<T>` 泛型基类，该基类由 `com.dreemurrstudio.core` 包提供。请确保您的项目中已导入该依赖包
 
 ---
 
